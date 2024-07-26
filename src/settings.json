@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "HeroSplitWithScreenshot",
+      "variables": {
+        "title": "Launch faster with aI"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI",
+        "title": "Unleash Your SaaS Potential with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Unleash Your SaaS Potential with AI SaaS Launcher",
+  "subtitle": "Transform Ideas into Revenue-Driving Platforms - Effortlessly Create, Customize, and Launch with Our Generative AI"
+}
